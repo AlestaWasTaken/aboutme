@@ -17,7 +17,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 
 ## Spotify Live View
-https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&cover_image=true&theme=default&show_offline=true&bar_color=000000&bar_color_cover=true
+<p>https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3gkak6l4drh3z2fy12yw7l3p9&cover_image=true&theme=default&show_offline=true&bar_color=000000&bar_color_cover=true</p>
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/8BitJonny/count.svg)
